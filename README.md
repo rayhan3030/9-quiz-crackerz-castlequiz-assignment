@@ -1,4 +1,63 @@
+
+---------------------Welcome to the 9th Assignment-------------------------
+
+                                    Project Name: Castle Quiz
+                                   Site Logo Name: Quiz Castle
+
+
+Live Site Link: https://dapper-lamington-048748.netlify.app/
+
+                                    *-------------------*
+                                        Project Features
+                                    *-------------------*
+
+* This is a Quiz Site which has 4 types of quiz catagory related in Programming. 
+    1. React
+    2. JavaScript
+    3. CSS
+    3. Git 
+
+* Each Topic has its own creative 8-9 quiz questions . Each question have 4 or 3 mcq styled option to choose. 
+  if you select wrong answer it will show you with a tostify alert. Right answers also be showed as well. 
+
+* There is an eye button in every MCQ . if you want to know the correct answer without marking the bulletpoints just click the eye button. Correct Answer will be pop up just in right side.
+
+* There is a Statistics option where you can know how many questions in each topic held. 
+
+* A blog section you can find in also in header section. The Blog section contain some of educational question related to this milestone. 
+
+What We Use in this project
+1/ FrameWorks: Tailwind For react 
+            Font Awsome
+            Material UI (cant use it much)
+
+2/ React Router
+
+3/ Used netlify for live site
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
